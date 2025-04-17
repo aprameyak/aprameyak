@@ -113,6 +113,9 @@
   </a>
 </p>
 
+---
+
+Thanks for visiting my profile! Feel free to reach out. I'm always happy to connect and collaborate 🚀
 
 <picture>
   <source
