@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👨‍💻 All of my projects are available at [Here](https://aprameyak.s3.us-east-1.amazonaws.com/index.html)
-- 💬 Ask me about **AWS, Oracle, and React**
+- 💬 Ask me about **Python, Docker, and MongoDB**
 - 📫 How to reach me: **aprameyakannan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
