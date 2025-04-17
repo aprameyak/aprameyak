@@ -2,7 +2,7 @@
 <h3 align="center">Computer science student at the University of Maryland</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-- 👨‍💻 All of my projects are available at [Here](https://aprameyak.s3.us-east-1.amazonaws.com/index.html)
+- 👨‍💻 All of my projects are available at [Here](https://aprameyak.vercel.app)
 - 💬 Ask me about **Python, Docker, and MongoDB**
 - 📫 How to reach me: **aprameyakannan@gmail.com**
 
