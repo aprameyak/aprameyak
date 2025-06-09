@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 👨‍💻 Check out my projects [Here](https://aprameyak.vercel.app)
-- 💬 Ask me about **Python, Docker, and MongoDB**
+- 💬 Ask me about **Spring Boot, Kubernetes, and Oracle**
 - 📫 How to reach me: **aprameyakannan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
