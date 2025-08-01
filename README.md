@@ -10,8 +10,8 @@ const aboutMe = {
     experience: {
         curr: 'Software Engineering Intern at Lockheed Martin',
     },
-    workingOn: 'Finding the latest oppurtunities in tech',
-    learning: 'To deliver scalable and resiliant solutions',
+    workingOn: 'Finding the latest opportunities in tech',
+    learning: 'To deliver scalable and resilient solutions',
     socials: {
         linkedin: 'https://www.linkedin.com/in/aprameyak',
         email: 'aprameyakannan@gmail.com',
