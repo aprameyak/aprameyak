@@ -11,7 +11,7 @@ const aboutMe = {
         current: "Software Engineering Intern @ Lockheed Martin",
         previous: [
             "Section Leader @ Stanford Code in Place (CS106A)",
-            "Software Engineer @ App Dev Club Warriors Legacy Care"
+            "Software Engineer @ App Dev Club (Warriors Legacy Care)"
         ],
     },
     workingOn: "Building scalable and resilient solutions",
@@ -22,7 +22,6 @@ const aboutMe = {
     }
 }
 ```
-
 
 <picture>
   <source
