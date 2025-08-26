@@ -1,20 +1,24 @@
-### Welcome to my profile 👋
+### 👋 Welcome to my Profile!
 
 ```javascript
 const aboutMe = {
     name: {
         first: "Aprameya",
         last: "Kannan", 
-        pronouns: 'he/him/his',
+        pronouns: "he/him/his",
     },
     experience: {
-        curr: 'Software Engineering Intern at Lockheed Martin',
+        current: "Software Engineering Intern @ Lockheed Martin",
+        previous: [
+            "Section Leader @ Stanford Code in Place (CS106A)",
+            "Software Engineer @ App Dev Club Warriors Legacy Care"
+        ],
     },
-    workingOn: 'Finding the latest opportunities in tech',
-    learning: 'To deliver scalable and resilient solutions',
+    workingOn: "Building scalable and resilient solutions",
+    learning: ["System Design", "Data Structures & Algorithms"],
     socials: {
-        linkedin: 'https://www.linkedin.com/in/aprameyak',
-        email: 'aprameyakannan@gmail.com',
+        linkedin: "https://www.linkedin.com/in/aprameyak",
+        email: "aprameyakannan@gmail.com",
     }
 }
 ```
