@@ -10,11 +10,12 @@ const aboutMe = {
     experience: {
         current: [
             "Software Engineering Intern @ Lockheed Martin",
-            "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)"
+            
         ],
         previous: [
             "Section Leader @ Stanford Code in Place (CS106A)",
             "Software Engineer @ App Dev Club (Warriors Legacy Care)"
+            "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)"
         ],
     },
     workingOn: "Building scalable and resilient solutions",
