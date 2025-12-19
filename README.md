@@ -9,8 +9,7 @@ const aboutMe = {
     },
     experience: {
         current: [
-            "Software Engineering Intern @ Lockheed Martin",
-            
+            "Software Engineering Intern @ Lockheed Martin", 
         ],
         previous: [
             "Section Leader @ Stanford Code in Place (CS106A)",
