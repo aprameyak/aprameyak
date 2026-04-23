@@ -1,5 +1,4 @@
 ### 👋 Welcome to my Profile!
-
 ```javascript
 const aboutMe = {
     name: {
@@ -14,7 +13,7 @@ const aboutMe = {
         ],
         previous: [
             "Section Leader @ Stanford Code in Place (CS106A)",
-            "Software Engineer @ App Dev Club (Warriors Legacy Care)"
+            "Software Engineer @ App Dev Club (Warriors Legacy Care)",
             "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)"
         ],
     },
@@ -41,4 +40,9 @@ const aboutMe = {
     src="https://raw.githubusercontent.com/aprameyak/aprameyak/output/github-snake.svg"
   />
 </picture>
+<br>
+<br>
+<br>
+
+![Aprameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprameyak&hide=stars&theme=tokyonight)
 
