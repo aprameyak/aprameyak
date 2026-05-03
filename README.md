@@ -43,6 +43,3 @@ const aboutMe = {
 <br>
 <br>
 <br>
-
-![Aprameya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprameyak&hide=stars&theme=tokyonight&cache_seconds=86400)
-
