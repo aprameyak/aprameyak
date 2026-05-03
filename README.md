@@ -8,13 +8,14 @@ const aboutMe = {
     },
     experience: {
         current: [
-            "Software Engineering Intern @ Lockheed Martin",
-            "Technical Lead @ App Dev Club (Mitre)"
+            "Incoming Software Engineering Intern @ Microsoft"
         ],
         previous: [
             "Section Leader @ Stanford Code in Place (CS106A)",
             "Software Engineer @ App Dev Club (Warriors Legacy Care)",
             "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)"
+            "Software Engineering Intern @ Lockheed Martin",
+            "Technical Lead @ App Dev Club (Mitre)"
         ],
     },
     workingOn: "Building scalable and resilient solutions",
