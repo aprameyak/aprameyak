@@ -18,8 +18,8 @@ const aboutMe = {
             "Section Leader @ Stanford Code in Place (CS106A)"
         ],
     },
-    workingOn: "Building scalable and resilient solutions",
-    learning: ["System Design", "Data Structures & Algorithms"],
+    workingOn: "Enjoying summer holidays",
+    learning: "Leetcode?",
     socials: {
         linkedin: "https://www.linkedin.com/in/aprameyak",
         email: "aprameyakannan@gmail.com",
@@ -41,6 +41,3 @@ const aboutMe = {
     src="https://raw.githubusercontent.com/aprameyak/aprameyak/output/github-snake.svg"
   />
 </picture>
-<br>
-<br>
-<br>
