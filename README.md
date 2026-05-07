@@ -11,11 +11,11 @@ const aboutMe = {
             "Incoming Software Engineering Intern @ Microsoft"
         ],
         previous: [
-            "Section Leader @ Stanford Code in Place (CS106A)",
+            "Software Engineering Intern @ Lockheed Martin"
+            "Technical Lead @ App Dev Club (Mitre)",
+            "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)",
             "Software Engineer @ App Dev Club (Warriors Legacy Care)",
-            "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)"
-            "Software Engineering Intern @ Lockheed Martin",
-            "Technical Lead @ App Dev Club (Mitre)"
+            "Section Leader @ Stanford Code in Place (CS106A)"
         ],
     },
     workingOn: "Building scalable and resilient solutions",
