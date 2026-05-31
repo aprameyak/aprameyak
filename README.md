@@ -8,7 +8,7 @@ const aboutMe = {
     },
     experience: {
         current: [
-            "Incoming Software Engineering Intern @ Microsoft"
+            "Software Engineering Intern @ Microsoft"
         ],
         previous: [
             "Software Engineering Intern @ Lockheed Martin"
