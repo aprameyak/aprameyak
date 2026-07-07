@@ -26,7 +26,7 @@ const aboutMe = {
     }
 }
 ```
-
+[![Aprameya's GitHub Stats](https://github-stats-extended.vercel.app/api?username=aprameyak&show_icons=true&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
