@@ -18,6 +18,11 @@ const aboutMe = {
             "Section Leader @ Stanford Code in Place (CS106A)"
         ],
     },
+    certifications: [
+        "AWS Certified Cloud Practitioner (CLF-C01)",
+        "AWS Certified Solutions Architect – Associate (SAA-C03)",
+        "AWS Certified AI Practitioner (AIF-C01)"
+    ],
     workingOn: "Enjoying summer holidays",
     learning: "Leetcode?",
     socials: {
