@@ -11,7 +11,7 @@ const aboutMe = {
             "Software Engineering Intern @ Microsoft"
         ],
         previous: [
-            "Software Engineering Intern @ Lockheed Martin"
+            "Software Engineering Intern @ Lockheed Martin",
             "Technical Lead @ App Dev Club (Mitre)",
             "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)",
             "Software Engineer @ App Dev Club (Warriors Legacy Care)",
