@@ -8,9 +8,10 @@ const aboutMe = {
     },
     experience: {
         current: [
-            "Software Engineering Intern @ Microsoft"
+            "Studying!"
         ],
         previous: [
+            "Software Engineering Intern @ Microsoft",
             "Software Engineering Intern @ Lockheed Martin",
             "Technical Lead @ App Dev Club (Mitre)",
             "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)",
@@ -23,7 +24,6 @@ const aboutMe = {
         "AWS Certified Solutions Architect – Associate (SAA-C03)",
         "AWS Certified AI Practitioner (AIF-C01)"
     ],
-    workingOn: "Enjoying summer holidays",
     learning: "Leetcode?",
     socials: {
         linkedin: "https://www.linkedin.com/in/aprameyak",
