@@ -7,24 +7,19 @@ const aboutMe = {
         pronouns: "he/him/his",
     },
     experience: {
-        current: [
-            "Studying!"
-        ],
-        previous: [
-            "Software Engineering Intern @ Microsoft",
-            "Software Engineering Intern @ Lockheed Martin",
-            "Technical Lead @ App Dev Club (Mitre)",
-            "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)",
-            "Software Engineer @ App Dev Club (Warriors Legacy Care)",
-            "Section Leader @ Stanford Code in Place (CS106A)"
-        ],
+        "Software Engineering Intern @ Microsoft",
+        "Software Engineering Intern @ Lockheed Martin",
+        "Technical Lead @ App Dev Club (Mitre)",
+        "DevOps Engineer @ App Dev Club (Booz Allen Hamilton)",
+        "Software Engineer @ App Dev Club (Warriors Legacy Care)",
+        "Section Leader @ Stanford Code in Place (CS106A)"
+        
     },
     certifications: [
         "AWS Certified Cloud Practitioner (CLF-C01)",
         "AWS Certified Solutions Architect – Associate (SAA-C03)",
         "AWS Certified AI Practitioner (AIF-C01)"
     ],
-    learning: "Leetcode?",
     socials: {
         linkedin: "https://www.linkedin.com/in/aprameyak",
         email: "aprameyakannan@gmail.com",
