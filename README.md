@@ -20,9 +20,6 @@ const aboutMe = {
         "AWS Certified Solutions Architect – Associate (SAA-C03)",
         "AWS Certified AI Practitioner (AIF-C01)"
     ],
-    projects: [
-        "spy-algo: https://github.com/aprameyak/spy-algo"
-    ],
     socials: {
         linkedin: "https://www.linkedin.com/in/aprameyak",
         email: "aprameyakannan@gmail.com",
